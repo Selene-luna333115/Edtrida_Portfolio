@@ -1,0 +1,21 @@
+.header {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+#nav {
+    background-color: #CABDBD;
+    display: flex;
+    padding: 6px;
+    gap: 12px;
+}
+
+#box{
+    background-color: #D9D9D9;
+    display: flex;
+    padding: 6px;
+    gap: 10px;
+}
